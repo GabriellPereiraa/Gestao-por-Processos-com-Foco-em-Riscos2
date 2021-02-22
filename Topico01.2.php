@@ -575,8 +575,8 @@ include('layout/header.php');
             <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Apresentacao.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
-                    <a href="Topico01.2.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
+                    <a href="Topocp01.1.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="Topico02.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 
