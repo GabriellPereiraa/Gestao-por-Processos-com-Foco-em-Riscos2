@@ -57,7 +57,6 @@ include('layout/header.php');
                 No âmbito da abordagem de Hill (2006, p. 38), como o risco faz parte das rotinas pessoal e profissional de cada um, sua gestão requer
             </p>
 
-            .
 
             <p class="Texto">
             Já a CGU e o MPOG, no âmbito da IN no 01/2016, consideram como objetivos da gestão de riscos: 

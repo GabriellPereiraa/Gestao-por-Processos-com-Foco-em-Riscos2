@@ -29,9 +29,9 @@ include('layout/header.php');
             
             <hr class="hrLaranja">
 
-            <h3 class="font-bold Azul">
+            <h2 class="font-bold Azul">
                 <i class="fas fa-folder"></i> 01.1 - O que são e o que não são riscos?
-            </h3>
+            </h2>
             <hr class="hr4">
 
             <p class="Texto">
