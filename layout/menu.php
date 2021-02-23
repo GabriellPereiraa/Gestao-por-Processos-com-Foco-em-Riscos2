@@ -22,10 +22,24 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a href="Topico01.php" class="sidebar-link">
+                            <a href="" class="sidebar-link">
                                 <i data-feather="home" width="20"></i>
-                                <span>Tópico 1 – Gestão por Processos: Contextualização</span>
+                                <span>Tópico 1 – Gestão por Processos</span>
                             </a>
+                            <ul class="submenu">
+                                <li class="sidebar-item">
+                                    <a href="Topico01.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>1.1 - O que são e o que não são riscos?</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico01.2.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>1.2 – Quais os riscos que nos interessam?</span>
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="sidebar-item has-sub">
                             <a href="" class='sidebar-link'>
@@ -43,6 +57,12 @@
                                     <a href="Topico02.2.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>2.2 - Gerenciamento para melhorar processos</span>
+                                    </a>
+                                </li>
+                                <li class="sidebar-item">
+                                    <a href="Topico02.3.php" class="sidebar-sub">
+                                        <i data-feather="home" width="20"></i>
+                                        <span>2.3 - Como gerenciar riscos?</span>
                                     </a>
                                 </li>
                             </ul>
