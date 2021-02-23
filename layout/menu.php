@@ -66,6 +66,18 @@
                                     </a>
                                 </li>
                             </ul>
+                            <li class="sidebar-item has-sub">
+                                <a href="Topico03.php" class='sidebar-link'>
+                                    <i data-feather="home" width="20"></i>
+                                    <span>Tópico 03</span>
+                                </a>
+                            </li>
+                            <li class="sidebar-item has-sub">
+                                <a href="Topico04.php" class='sidebar-link'>
+                                    <i data-feather="home" width="20"></i>
+                                    <span>Tópico 04</span>
+                                </a>
+                            </li>
                         </li>
                         <li class="sidebar-item">
                             <a href="Referencias.php" class="sidebar-link">
