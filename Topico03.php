@@ -71,7 +71,7 @@ include('layout/header.php');
             </section>
             <br>
 
-            <section id="Estrategicos">
+            <section id="Operacional">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
                         <div class="card-header" id="headingOne">
