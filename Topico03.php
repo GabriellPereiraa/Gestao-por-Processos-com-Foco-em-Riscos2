@@ -41,7 +41,7 @@ include('layout/header.php');
                 <div class="col-sm">
                     <div class="text-center">
                     <p class="TituloFigura"><strong>Imagem 5:</strong> Matriz Tridimensional</p>
-                    <a href="imagens/Imagem05.png" data-toggle="lightbox" data-footer="- Matriz Tridimensional">
+                    <a href="imagens/Imagem05.png" data-toggle="lightbox" data-footer="Matriz Tridimensional">
                         <img class="img-fluid" src="imagens/Imagem05.png" alt="Alt_da_Imagem">
                     </a>
                     </div>
