@@ -139,14 +139,14 @@ include('layout/header.php');
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Para uma leitura complementar, acesse a biblioteca do curso e leia o <a href="https://drive.google.com/file/d/0B5moywX9O3sQSDBkSDlKNUdRemc/view">" Guia s obre a gestão de riscos no serviço público"</a>, de Stephem Hill.</p>
+                <p class="SaibaMaisTexto">Para uma leitura complementar, acesse a biblioteca do curso e leia o "<a href="https://drive.google.com/file/d/0B5moywX9O3sQSDBkSDlKNUdRemc/view">Guia sobre a gestão de riscos no serviço público</a>", de Stephem Hill.</p>
             </div>
 
             <br><br>
             <div class="center">
                 <div class="btn-group" id="btn-group">
-                    <a href="Topico01.2.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
-                    <a href="Topico02.2.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
+                    <a href="Topico02.2.php" class="btn btn-outline-success btn-sm">Página Anterior</a>
+                    <a href="Topico03.php" class="btn btn-outline-success btn-sm">Proxima Página</a>
                 </div>
             </div>
 
