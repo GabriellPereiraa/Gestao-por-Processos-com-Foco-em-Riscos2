@@ -139,7 +139,7 @@ include('layout/header.php');
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Para uma leitura complementar, acesse a biblioteca do curso e leia o "<a href="https://drive.google.com/file/d/0B5moywX9O3sQSDBkSDlKNUdRemc/view">Guia sobre a gestão de riscos no serviço público</a>", de Stephem Hill.</p>
+                <p class="SaibaMaisTexto">Para uma leitura complementar, acesse a biblioteca do curso e leia o "<a href="https://drive.google.com/file/d/0B5moywX9O3sQSDBkSDlKNUdRemc/view" target="_blank">Guia sobre a gestão de riscos no serviço público</a>", de Stephem Hill.</p>
             </div>
 
             <br><br>
