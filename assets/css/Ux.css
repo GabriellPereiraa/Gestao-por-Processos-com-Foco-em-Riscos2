@@ -229,6 +229,12 @@ Texto negrito
     padding-left: 2em;
 }
 
+/* Borda dica */
+.Dica{
+    border: 1px solid #013f21 ;
+    padding: 15px;
+}
+
 .CorLaranja {
     color: hsl(22, 100%, 66%);
 }
@@ -250,6 +256,18 @@ Texto negrito
     background-color: #286ce6;
     border-color: #286ce6;
   }
+
+/*Cor cinza*/
+.Cinza{
+    color: var(--Cor01)
+}
+
+/*Borda hr grossa de cor cinza*/
+.hr4Cinza{
+    border:0;
+    border-bottom: 10px solid var(--Cor01);
+    margin-top: -6px;
+}
 
 /* Cor azul */
 .Azul{
