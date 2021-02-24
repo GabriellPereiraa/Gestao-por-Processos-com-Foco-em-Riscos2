@@ -29,7 +29,7 @@ include('layout/header.php');
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> BRAGA. Marcus Vinicius de Azevendo. <strong>Gestão de Riscos no Setor Público: </strong>ampliando horizontes. Disponível em <a href="https://administradores.com.br/artigos/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes" target="_blank">http://www.administradores.com.br/artigos/negocios/gestao-dosriscos-no-setor-publico-ampliando-os-horizontes/67507</a>. Acesso em 09/09/2017. 
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> BRAGA. Marcus Vinicius de Azevendo. <strong>Gestão de Riscos no Setor Público: </strong>ampliando horizontes. Disponível em <a href="https://administradores.com.br/artigos/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes" target="_blank">http://www.administradores .com.br/artigos/negocios/ gestao-dosriscos-no-setor-publico-ampliando-os-horizontes/67507</a>. Acesso em 09/09/2017. 
                     </li>
                     <br>
                     <li>
@@ -41,11 +41,11 @@ include('layout/header.php');
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> CGE/CE. Disponível em <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/" target="_blank">https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>. Acesso em 09 set. 2017.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> CGE/CE. Disponível em <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/" target="_blank">https://www.cge.ce.gov.br /2017/08/30/ seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>. Acesso em 09 set. 2017.
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> CGU. Disponível em <a href="https://www.gov.br/cgu/sobre/legislacao/arquivos/instrucoes-normativas/in_cgu_mpog_01_2016.pdf" target="_blank">https://www.gov.br/cgu/sobre/legislacao/arquivos/instrucoes-normativas/in_cgu_mpog_01_2016.pdf</a>. Acesso em 15 ago. 2017. 
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> CGU. Disponível em <a href="https://www.gov.br/cgu/sobre/legislacao/arquivos/instrucoes-normativas/in_cgu_mpog_01_2016.pdf" target="_blank">https://www.gov.br/cgu/ sobre/legislacao/arquivos/ instrucoes-normativas/ in_cgu_mpog_01_2016.pdf</a>. Acesso em 15 ago. 2017. 
                     </li>
                     <br>
                     <li>
@@ -85,19 +85,19 @@ include('layout/header.php');
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> PRIBERAM. Disponível em <a href="https://www.priberam.pt/dlpo/evento" target="_blank">https://www.priberam.pt/dlpo/evento</a>. Acesso em 08 ago. 2017.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> PRIBERAM. Disponível em <a href="https://www.priberam.pt/dlpo/evento" target="_blank">https://www.priberam.pt /dlpo/evento</a>. Acesso em 08 ago. 2017.
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> QSP. Disponível em <a href=" http://www.qsp.org.br/pdf/implemente_abr.pdf" target="_blank">http://www.qsp.org.br/pdf/implemente_abr.pdf</a>. Acesso em 09 set. 2017. 
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> QSP. Disponível em <a href=" http://www.qsp.org.br/pdf/ implemente_abr.pdf" target="_blank">http://www.qsp.org.br/pdf/ implemente_abr.pdf</a>. Acesso em 09 set. 2017. 
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> TCU, <strong>Auditoria Governamenta</strong>, 2011. 356p. Disponível em <a href="https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B277355651D" target="_blank">https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B277355651D</a>. Acesso em 20 jul. 2013
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> TCU, <strong>Auditoria Governamenta</strong>, 2011. 356p. Disponível em <a href="https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B277355651D" target="_blank">https://portal.tcu.gov.br /lumis/portal/file/ fileDownload.jsp?fileId= 8A8182A24F0A728E0 14F0B277355651D</a>. Acesso em 20 jul. 2013
                     </li>
                     <br>
                     <li>
-                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> Victorian Government (Australia) – Department of Treasury and Finance, <strong>Victorian Government Risk Management Framework</strong>, 2011. 38p Disponível em <a href=" https://www.dtf.vic.gov.au/planning-budgeting-andfinancial-reporting-frameworks/victorian-risk-managementframework-and-insurance-management-policy" target="_blank"> https://www.dtf.vic.gov.au/planning-budgeting-andfinancial-reporting-frameworks/victorian-risk-managementframework-and-insurance-management-policy</a> 20 jul. 2013.
+                        <i class="fa fa-book fa-lg CorLaranja" aria-hidden="true"></i> Victorian Government (Australia) – Department of Treasury and Finance, <strong>Victorian Government Risk Management Framework</strong>, 2011. 38p Disponível em <a href=" https://www.dtf.vic.gov.au/planning-budgeting-andfinancial-reporting-frameworks/victorian-risk-managementframework-and-insurance-management-policy" target="_blank"> https://www.dtf.vic.gov.au/ planning-budgeting-andfinancial-reporting-frameworks/ victorian-risk-managementframework-and-insurance-management-policy</a> 20 jul. 2013.
                     </li>
                     <br>
                 </ul>
