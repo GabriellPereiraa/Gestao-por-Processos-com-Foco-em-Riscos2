@@ -238,6 +238,10 @@ Texto negrito
 .CorLaranja {
     color: hsl(22, 100%, 66%);
 }
+
+.LaranjaEstado{
+    color: #FC6B30  
+}
 .tBody {
     font-family: sans-serif(--FontePadrao);
     /* font-size: 1.5 em; */
@@ -256,18 +260,6 @@ Texto negrito
     background-color: #286ce6;
     border-color: #286ce6;
   }
-
-/*Cor cinza*/
-.Cinza{
-    color: var(--Cor01)
-}
-
-/*Borda hr grossa de cor cinza*/
-.hr4Cinza{
-    border:0;
-    border-bottom: 10px solid var(--Cor01);
-    margin-top: -6px;
-}
 
 /* Cor azul */
 .Azul{
@@ -312,6 +304,15 @@ Texto negrito
 /* Cor da Borda padrão dos cards */
 #CardBorda{
     border-color: #17a2b8;
+}
+
+.BCorEad {
+    background: #4885AE;
+}
+
+.textmiddle {
+    vertical-align: middle!important;
+    text-align: center!important;
 }
 
 /* Classe para centralizar */
