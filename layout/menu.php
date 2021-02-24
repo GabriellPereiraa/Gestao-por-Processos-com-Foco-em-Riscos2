@@ -50,7 +50,7 @@
                             </a>
                             <ul class="submenu">
                                 <li class="sidebar-item">
-                                    <a href="Topico02.1.php" class="sidebar-sub">
+                                    <a href="Topico02.php" class="sidebar-sub">
                                         <i data-feather="home" width="20"></i>
                                         <span>2.1 - Gerenciamento para manter processos</span>
                                     </a>
