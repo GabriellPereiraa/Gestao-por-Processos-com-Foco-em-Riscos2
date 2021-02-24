@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 02.3 - Como gerenciar riscos?
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 2.3 - Como gerenciar riscos?
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 Após o que até aqui foi apresentado em termos de riscos, inclusive o que são e o que não são riscos, aqueles que interessam, os motivos para que sejam gerenciados e o que esse gerenciamento significa, serão agora apresentadas algumas formas de se efetuarem os procedimentos de gestão de riscos.  

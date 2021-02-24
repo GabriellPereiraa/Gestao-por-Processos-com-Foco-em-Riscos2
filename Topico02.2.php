@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
+            <h2 class="font-bold LaranjaEstado">
                 <i class="fas fa-folder"></i> 02.2 - O que é gerenciamento de riscos?
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 Tendo já discutido aspectos relacionados ao que são e o que não são riscos, quais os riscos que devem ser objeto de atenção em uma organização e quais os motivos que gestores e técnicos têm para gerenciá-los, partimos agora para evidenciar o que é o gerenciamento de riscos.

@@ -18,21 +18,19 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold CinzaCinza">
-                <i class="fas fa-folder"></i> Tópico 01 – Riscos: O que são e os que nos interessam
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 1 – Riscos: O que são e os que nos interessam
             </h2>
-
-            <hr class="hr4CinzaCinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar informações que permitam a compreensão das características dos riscos em geral e daqueles que interessam às organizações.
             </p>
             
             <hr class="hrLaranja">
 
-            <h2 class="font-bold Cinza">
+            <h2 class="font-bold LaranjaEstado">
                 <i class="fas fa-folder"></i> 01.1 - O que são e o que não são riscos?
             </h2>
-            <hr class="hr4Cinza">
+            <hr >
 
             <p class="Texto">
                 A definição para risco pode ser considerada circunstancial e dependente de quem ou qual organização a apresenta ou a considera em sua vida, pessoal ou organizacional. Nada obstante, indubitavelmente, o risco traz em sua essência uma imagem de algo sobre o qual não se pode prever ou evitar, algo incerto, um evento que pode ou não ocorrer, normalmente acarretando certa perda, em caso de se tornar realidade. 

@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i>  Tópico 04 – Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i>  4 – Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar as características gerais do gerenciamento de riscos no setor público e do Programa de Fortalecimento do Controle Interno do Poder Executivo, especialmente quanto à integridade e às três linhas de defesa do controle interno.</p>
             
@@ -34,115 +34,57 @@ include('layout/header.php');
             <p class="Texto">
                 Nesse sentido, registre-se que a visão da QSP (2010) sobre a maturidade de riscos em uma organização contempla uma série de graus e correspondentes características, como a seguir alinhados:
             </p>
-            <section id="Ingenuo">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1" style="background-color: #4885AE;color:white">
-                                    <h3>Ingênuo</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Nenhuma abordagem formal desenvolvida para a gestão de riscos.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
 
-            <section id="Consciente">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" style="background-color: #4885AE;color:white">
-                                    <h3>Consciente</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Abordagem para a gestão de riscos dispersa em “silos”.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Definido">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" style="background-color: #4885AE;color:white">
-                                    <h3>Definido</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse3" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Estratégia e políticas implementadas e comunicadas, apetite por riscos definido.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>   
-
-            <section id="Gerenciado">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" style="background-color: #4885AE;color:white">
-                                    <h3>Gerenciado</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse4" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Abordagem corporativa para a gestão de riscos desenvolvida e comunicada.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>  
-            
-            <section id="Habilitado">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" style="background-color: #4885AE;color:white">
-                                    <h3>Habilitado</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse5" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Ingênuo </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Projeções quantitativas ou qualitativas para o futuro de uma organização, normalmente estabelecidas de forma participativa entre representantes das partes relacionadas e que têm interesse na organização, observados requisitos de exequibilidade.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Consciente </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Nenhuma abordagem formal desenvolvida para a gestão de riscos.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Definido </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Estratégia e políticas implementadas e comunicadas, apetite por riscos definido.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gerenciado </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Abordagem corporativa para a gestão de riscos desenvolvida e comunicada.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Habilitado </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Gestão de riscos e controles internos totalmente incorporados às operações.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
             <br>
+
 
             <div>
                 <p class="FiqueAtentoTitulo"> Atenção</p>
@@ -250,7 +192,7 @@ include('layout/header.php');
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Acesse o link para o Seminário Controles Internos, Gestão de Riscos e Programa de Integridade, realizado em 30/08/2017: <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/"  target="_blank">https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>
+                <p class="SaibaMaisTexto">Acesse o link para o Seminário Controles Internos, Gestão de Riscos e Programa de Integridade, realizado em 30/08/2017: <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/"  target="_blank">https://www.cge.ce.gov.br /2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>
                 </p>
             </div>
             <br>

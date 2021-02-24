@@ -18,21 +18,20 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> Tópico 02 – Gerenciamento de Riscos
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 2 – Gerenciamento de Riscos
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr>
 
             <p class="Texto"><strong>Objetivo:</strong>  Proporcionar aos alunos conhecimentos básicos sobre as razões pelas quais os riscos devem ser gerenciados, o significado do processo de gerenciamento de riscos e as principais formas de como proceder a esse gerenciamento.</p>
             
-            <hr class="hrLaranja">
 
-            <h2 class="font-bold Cinza">
+            <h2 class="font-bold LaranjaEstado">
                 <i class="fas fa-folder"></i> 02.1 - Por que gerenciar riscos?
             </h2>
 
-            <hr class="hr4Cinza">
+            <hr class="hrLaranja">
 
             <p class="Texto">
                 Tendo em vista o que até aqui foi exposto, especialmente em relação ao escopo dos riscos que devem ser de interesse em uma organização, na seção precedente, pode-se inferir, naturalmente, que tais situações merecem e devem ser objeto de atenção específica por parte dos gestores e técnicos em uma organização. 

@@ -18,11 +18,9 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Cinza">
-                <i class="fas fa-folder"></i> 01.2 – Quais os riscos que nos interessam?
+            <h2 class="font-bold LaranjaEstado">
+                <i class="fas fa-folder"></i> 1.2 – Quais os riscos que nos interessam?
             </h2>
-
-            <hr class="hr4Cinza">
 
             <p class="Texto">
                 O interesse deste curso está voltado para os riscos relacionados à gestão das organizações, das instituições, cuja existência atual e futura depende de como são administradas e dos resultados que alcançam. Assim, o foco está relacionado aos riscos associados às metas, aos objetivos e aos resultados estabelecidos pelas organizações e de como eles se relacionam com os recursos alocados, com a comunicação empreendida, com a visibilidade alcançada e com o desempenho ao longo do tempo, por exemplo. 
@@ -54,386 +52,180 @@ include('layout/header.php');
                 Nesse sentido, por exemplo, podem-se indicar, a seguir, algumas características organizacionais inerentes à <strong>dimensão estratégica</strong>, cujos riscos associados são objeto de interesse:
             </p>
 
-            <section id="ObjetivosEstratégicos">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1" style="background-color: #4885AE;color:white">
-                                    <h3>Objetivos Estratégicos</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Projeções quantitativas ou qualitativas para o futuro de uma organização, normalmente estabelecidas de forma participativa entre representantes das partes relacionadas e que têm interesse na organização, observados requisitos de exequibilidade.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Iniciativas">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" style="background-color: #4885AE;color:white">
-                                    <h3>Iniciativas</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                Ações que marcam o início de qualquer atividade, projeto, processo organizacional, vinculadas a objetivos definidos previamente.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Aquisições">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" style="background-color: #4885AE;color:white">
-                                    <h3>Aquisições</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse3" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Ações de incorporação de insumos para o processo operacional de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Planejamento">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" style="background-color: #4885AE;color:white">
-                                    <h3>Planejamento e Aquisição de recursos</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse4" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Objetivos Estratégicos</h5></th>
+                        <td>
+                            <p class="Texto">
+                                Projeções quantitativas ou qualitativas para o futuro de uma organização, normalmente estabelecidas de forma participativa entre representantes das partes relacionadas e que têm interesse na organização, observados requisitos de exequibilidade.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Iniciativas </h5></th>
+                        <td>
+                            <p class="Texto">
+                            Ações que marcam o início de qualquer atividade, projeto, processo organizacional, vinculadas a objetivos definidos previamente.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Iniciativas </h5></th>
+                        <td>
+                            <p class="Texto">
+                            Ações que marcam o início de qualquer atividade, projeto, processo organizacional, vinculadas a objetivos definidos previamente.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Aquisições </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Ações de incorporação de insumos para o processo operacional de uma organização.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Planejamento e Aquisição de recursos </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Ações de preparo, organização e controle para viabilizar a estruturação de recursos de toda ordem e o processo operacional de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Governança">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" style="background-color: #4885AE;color:white">
-                                    <h3>Governança</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse5" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Estrutura que visa suprir a necessidade de assegurar que as empresas proporcionem retornos aos seus financiadores, investidores e fornecedores de recursos, inclusive acionistas, acrescentando valor às empresas, a longo prazo.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Comunicacao">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6" style="background-color: #4885AE;color:white">
-                                    <h3>Comunicação e relação com o público</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse6" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Comunicação e relação com o público </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Ações de transmissão e recepção de mensagens com todas as partes relacionadas e que têm algum interesse com e nas organizações.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
             <br>
 
             <p class="Texto">
             No que se refere à dimensão financeira, algumas das características organizacionais cujos riscos estão associados estão, a seguir, exemplificadas: 
             </p>
 
-            <section id="GestaoContabil">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7" style="background-color: #4885AE;color:white">
-                                    <h3>Gestão Contábil e reporte</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse7" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Ações que assegurem a consistência e a integridade dos registros e relatórios contábeis, de acordo com a estrutura patrimonial, econômica e financeira de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="GestaoLiquidez">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8" style="background-color: #4885AE;color:white">
-                                    <h3>Gestão de liquidez e crédito</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse8" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Ações que assegurem eficiência e eficácia na gestão financeira de bens, direitos e obrigações de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="ApresentacaoPublico">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9" style="background-color: #4885AE;color:white">
-                                    <h3>Apresentação ao público</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse9" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gestão Contábil e reporte</h5></th>
+                        <td>
+                            <p class="Texto">
+                                Projeções quantitativas ou qualitativas para o futuro de uma organização, normalmente estabelecidas de forma participativa entre representantes das partes relacionadas e que têm interesse na organização, observados requisitos de exequibilidade.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gestão de liquidez e crédito </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Ações que assegurem eficiência e eficácia na gestão financeira de bens, direitos e obrigações de uma organização.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Apresentação ao público </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Modelo que proporciona oportuno, tempestivo e adequado conjunto de relatórios que comunicam a situação patrimonial, econômica e financeira às diversas partes relacionadas com os interesses de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="FontesRecursos">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10" style="background-color: #4885AE;color:white">
-                                    <h3>Fontes de recursos</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse10" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                    Estrutura que viabiliza oportuna, tempestiva e adequada alocação de recursos financeiros, viabilizando a eficiência do processo operacional de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="VariacaoCambial">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11" style="background-color: #4885AE;color:white">
-                                    <h3>Variação cambial</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse11" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Fontes de recursos </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Estrutura que viabiliza oportuna, tempestiva e adequada alocação de recursos financeiros, viabilizando a eficiência do processo operacional de uma organização.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Variação cambial </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Ações que assegurem proteção às dívidas e a outras obrigações de uma organização que estejam atreladas a alteração de cotação de moeda estrangeira.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
             <br>
             
             <p class="Texto">
             Em relação à dimensão operacional ou das operações, são apresentadas, a seguir, algumas características organizacionais para os quais estão relacionados riscos: 
             </p>
 
-            <section id="GestaoPatrimonio">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12" style="background-color: #4885AE;color:white">
-                                    <h3>Gestão de patrimônio</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse12" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+            <div class="table-responsive">
+                <table class="table">
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gestão de patrimônio </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Modelo e estrutura que assegura as melhores condições de uso e de retorno aos recursos de uma organização e aos correspondentes investimentos realizados.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="GestaoContingencias">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13" style="background-color: #4885AE;color:white">
-                                    <h3>Gestão de contingências</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse13" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gestão de contingência </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Modelo e estrutura que definem o que deve ser feito por uma organização ante a possibilidade de ocorrência de situações operacionais indesejadas.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="GestaoPessoas">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14" style="background-color: #4885AE;color:white">
-                                    <h3>Gestão de pessoas e de recursos humanos</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse14" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
-                                Modelo e estrutura definidos para gestão dos que atuam em uma organização, independente de seu vínculo profissional ou empresarial, sob a ótica dos processos de seleção, contratação, manutenção, desenvolvimento, sucessão e desligamento.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="TecnologiaInformacao">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15" style="background-color: #4885AE;color:white">
-                                    <h3>Tecnologia da informação e informação</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse15" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Gestão de pessoas e de recursos humanos </h5></th>
+                        <td>
+                            <p class="Texto">
+                                Modelo e estrutura que definem o que deve ser feito por uma organização ante a possibilidade de ocorrência de situações operacionais indesejadas.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Tecnologia da informação e informação </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Estrutura de recursos de natureza tecnológica, em termos de hardware e software, que proporcionam a melhor especificação, desenvolvimento, aplicação e manutenção de sistemas de informação e de comunicação.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="GestaoEstoque">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16" style="background-color: #4885AE;color:white">
-                                    <h3>Compras e gestão de estoques</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse16" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Compras e gestão de estoques </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Modelo e estrutura organizacional que proporciona adequada eficiência no processo de aquisição e conseqüente gestão dos estoques de insumos a serem utilizados no processo operacional de uma organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <br>
-
-            <section id="Serviços">
-                <div class="accordion" id="accordionExample">
-                    <div class="card">
-                        <div class="card-item" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapse17" style="background-color: #4885AE;color:white">
-                                    <h3>Serviços</h3>
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="collapse17" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p class="Texto">
+                            </p>
+                        </td>
+                    </tr>
+                    <tr><td></td></tr>
+                    <tr>
+                        <th class="BCorEad text-white textmiddle"><h5> Serviços </h5></th>
+                        <td>
+                            <p class="Texto">
                                 Modelo e estrutura organizacional que viabiliza a prestação de serviços internos de apoio e suporte a todas as áreas e unidades que compõem a organização.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
             <br>
 
             <p class="Texto">
