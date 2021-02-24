@@ -18,27 +18,27 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> Tópico 02 – Gerenciamento de Riscos
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Proporcionar aos alunos conhecimentos básicos sobre as razões pelas quais os riscos devem ser gerenciados, o significado do processo de gerenciamento de riscos e as principais formas de como proceder a esse gerenciamento.</p>
             
             <hr class="hrLaranja">
 
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 02.1 - Por que gerenciar riscos?
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto">
                 Tendo em vista o que até aqui foi exposto, especialmente em relação ao escopo dos riscos que devem ser de interesse em uma organização, na seção precedente, pode-se inferir, naturalmente, que tais situações merecem e devem ser objeto de atenção específica por parte dos gestores e técnicos em uma organização. 
             </p>
             <p class="Texto">
-                Tanto assim que entidades, como, por exemplo, a <span style="color:#FC6B30;">The International Organisation of Supreme Audit Institutions (</span>Organização Internacional de Entidades Fiscalizadoras Superiores<span style="color:#FC6B30;">)</span>, prescrevem que <strong>quaisquer entidades públicas ou privadas </strong>estão condicionadas a eventos, incidentes ou ocorrências provocados por origens internas ou externas e que acarretam conseqüências positivas ou negativas aos seus correspondentes desempenhos (INTOSAI, 2007).
+                Tanto assim que entidades, como, por exemplo, a <span style="color:#FC6B30;">The International Organisation of Supreme Audit Institutions </span>(Organização Internacional de Entidades Fiscalizadoras Superiores), prescrevem que <strong>quaisquer entidades públicas ou privadas </strong>estão condicionadas a eventos, incidentes ou ocorrências provocados por origens internas ou externas e que acarretam conseqüências positivas ou negativas aos seus correspondentes desempenhos (INTOSAI, 2007).
             </p>
             <p class="Texto">
                 Já o Ministério da Economia e Finanças do Reino Unido afirma que

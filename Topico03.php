@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i>  Tópico 03 – O modelo de estrutura integrada de gestão de riscos COSO II
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar informações básicas que levem ao conhecimento das três dimensões do modelo de gestão integrada de riscos – objetivos da organização, componentes do gerenciamento de riscos e objetos controle.</p>
             
@@ -52,7 +52,7 @@ include('layout/header.php');
             <section id="Estrategicos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1" style="background-color: #4885AE;color:white">
                                     <h3>Estratégicos</h3>
@@ -74,7 +74,7 @@ include('layout/header.php');
             <section id="Operacional">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" style="background-color: #4885AE;color:white">
                                     <h3>Operacional</h3>
@@ -96,7 +96,7 @@ include('layout/header.php');
             <section id="Comunicacao">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-itemitem" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" style="background-color: #4885AE;color:white">
                                     <h3>Comunicação</h3>
@@ -118,7 +118,7 @@ include('layout/header.php');
             <section id="Conformidade">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-itemitem" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" style="background-color: #4885AE;color:white">
                                     <h3>Conformidade</h3>
@@ -144,7 +144,7 @@ include('layout/header.php');
             <section id="AmbienteInterno">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" style="background-color: #4885AE;color:white">
                                     <h3>Ambiente Interno</h3>
@@ -166,7 +166,7 @@ include('layout/header.php');
             <section id="FixacaoObjetivos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6" style="background-color: #4885AE;color:white">
                                     <h3>Fixação de objetivos</h3>
@@ -188,7 +188,7 @@ include('layout/header.php');
             <section id="IdentificacaoEventos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7" style="background-color: #4885AE;color:white">
                                     <h3>Identificação de Eventos</h3>
@@ -210,7 +210,7 @@ include('layout/header.php');
             <section id="AvaliacaoRiscos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8" style="background-color: #4885AE;color:white">
                                     <h3>Avaliação de Riscos</h3>
@@ -232,7 +232,7 @@ include('layout/header.php');
             <section id="RespostaRisco">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9" style="background-color: #4885AE;color:white">
                                     <h3>Resposta a Risco</h3>
@@ -254,7 +254,7 @@ include('layout/header.php');
             <section id="AtividadesControle">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10" style="background-color: #4885AE;color:white">
                                     <h3>Atividades de Controle</h3>
@@ -276,7 +276,7 @@ include('layout/header.php');
             <section id="InformacoesComunicacoes">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11" style="background-color: #4885AE;color:white">
                                     <h3>Informações e Comunicações</h3>
@@ -298,7 +298,7 @@ include('layout/header.php');
             <section id="Monitoramento">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12" style="background-color: #4885AE;color:white">
                                     <h3>Monitoramento</h3>
@@ -328,10 +328,10 @@ include('layout/header.php');
             <section id="Relacionamento">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13" style="background-color: #4885AE;color:white;" >
-                                    <h3><i class="fas fa-bullseye" style="height:25px;" ></i> Relacionamento entre Objetivos e Componentes</h3>
+                                    <h3></i> Relacionamento entre Objetivos e Componentes</h3>
                                 </button>
                             </h2>
                         </div>
@@ -350,10 +350,10 @@ include('layout/header.php');
             <section id="Eficacia">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14" style="background-color: #4885AE;color:white;" >
-                                    <h3><i class="fas fa-bullseye" style="height:25px;" ></i> Eficácia</h3>
+                                    <h3></i> Eficácia</h3>
                                 </button>
                             </h2>
                         </div>
@@ -372,10 +372,10 @@ include('layout/header.php');
             <section id="Limitacoes">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15" style="background-color: #4885AE;color:white;" >
-                                    <h3><i class="fas fa-bullseye" style="height:25px;" ></i> Limitações</h3>
+                                    <h3></i> Limitações</h3>
                                 </button>
                             </h2>
                         </div>
@@ -394,10 +394,10 @@ include('layout/header.php');
             <section id="FuncoesResponsabilidades">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16" style="background-color: #4885AE;color:white;" >
-                                    <h3><i class="fas fa-bullseye" style="height:25px;" ></i> Funções e Responsabilidades</h3>
+                                    <h3></i> Funções e Responsabilidades</h3>
                                 </button>
                             </h2>
                         </div>

@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i>  Tópico 04 – Gerenciamento de riscos na Controladoria e Ouvidoria Geral do Estado do Ceará (CGE/CE)
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar as características gerais do gerenciamento de riscos no setor público e do Programa de Fortalecimento do Controle Interno do Poder Executivo, especialmente quanto à integridade e às três linhas de defesa do controle interno.</p>
             
@@ -37,7 +37,7 @@ include('layout/header.php');
             <section id="Ingenuo">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1" style="background-color: #4885AE;color:white">
                                     <h3>Ingênuo</h3>
@@ -59,7 +59,7 @@ include('layout/header.php');
             <section id="Consciente">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" style="background-color: #4885AE;color:white">
                                     <h3>Consciente</h3>
@@ -81,7 +81,7 @@ include('layout/header.php');
             <section id="Definido">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" style="background-color: #4885AE;color:white">
                                     <h3>Definido</h3>
@@ -103,7 +103,7 @@ include('layout/header.php');
             <section id="Gerenciado">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" style="background-color: #4885AE;color:white">
                                     <h3>Gerenciado</h3>
@@ -125,7 +125,7 @@ include('layout/header.php');
             <section id="Habilitado">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" style="background-color: #4885AE;color:white">
                                     <h3>Habilitado</h3>
@@ -149,6 +149,7 @@ include('layout/header.php');
                 <p class="FiqueAtentoTexto">Além disso, Braga (2012) relata que “a discussão da gestão de riscos ainda é incipiente na Administração Pública pátria, restrita a uma presença mais acentuada nos setores que lidam com o Sistema Financeiro e naqueles que atuam em desastres naturais”.
                 </p>
             </div>
+            <br>
 
             <p class="Texto">
                 Nada obstante, ainda como destaca Braga (2012), “os órgãos de controle podem contribuir sobremaneira nessa discussão, como indutores desse processo de gestão de riscos, em uma salutar interação”, pois a ampliação da discussão sobre gestão de riscos no âmbito estatal contribui para a eficiência da gestão e a disponibilização de serviços públicos de qualidade é possível não só com diminuição de custos, melhoria de processos e adoção de instrumentos de mercado, mas também por meio do tratamento das incertezas (BRAGA, 2012). 
@@ -187,7 +188,7 @@ include('layout/header.php');
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Acesse a biblioteca do curso e leia o "<a href="https://drive.google.com/file/d/0B5moywX9O3sQZEVRRlMyakh4Q0E/view">Pl a nejamento Estr atégico 2015-20 2 2</a>".</p>
+                <p class="SaibaMaisTexto">Acesse a biblioteca do curso e leia o "<a href="https://drive.google.com/file/d/0B5moywX9O3sQZEVRRlMyakh4Q0E/view"  target="_blank">Planejamento Estratégico 2015-2022</a>".</p>
             </div>
 
             <p class="Texto">
@@ -210,46 +211,46 @@ include('layout/header.php');
                 Para implantação do Programa de Integridade do Poder Executivo, será observado o cumprimento das seguintes estratégias (CGE, 2017): 
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> comprometimento e apoio da alta administração;
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> comprometimento e apoio da alta administração;
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> instância responsável pelo Plano de Integridade;
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> instância responsável pelo Plano de Integridade;
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> editar norma para implantação do Programa de Integridade; 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> editar norma para implantação do Programa de Integridade; 
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> diagnóstico da situação atual do órgão - Análise de Riscos; 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> diagnóstico da situação atual do órgão - Análise de Riscos; 
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> desenvolver Plano de Implementação - estruturação das regras e instrumentos, Plano de Comunicação;
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> desenvolver Plano de Implementação - estruturação das regras e instrumentos, Plano de Comunicação;
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> definir metodologia de monitoramento contínuo.
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> definir metodologia de monitoramento contínuo.
             </p>
 
             <p class="Texto">
                 Em decorrência da implantação desse Programa, são esperados os resultados apresentados a seguir (CGE, 2017):
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> proporcionar razoável segurança no alcance dos resultados esperados;
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> proporcionar razoável segurança no alcance dos resultados esperados;
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> gerar economias decorrentes do ganho de eficiência;
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> gerar economias decorrentes do ganho de eficiência;
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> propiciar a adequada aplicação dos recursos públicos, em conformidade com as leis e regulamentos; 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> propiciar a adequada aplicação dos recursos públicos, em conformidade com as leis e regulamentos; 
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> proporcionar maior confiabilidade e qualidade das informações geradas para decisão e prestação de contas; 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> proporcionar maior confiabilidade e qualidade das informações geradas para decisão e prestação de contas; 
             </p>
             <p class="Texto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i> transmitir o conceito de organização íntegra e transparente.
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i> transmitir o conceito de organização íntegra e transparente.
             </p>
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Acesse o link para o Seminário Controles Internos, Gestão de Riscos e Programa de Integridade, realizado em 30/08/2017: <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/">https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>
+                <p class="SaibaMaisTexto">Acesse o link para o Seminário Controles Internos, Gestão de Riscos e Programa de Integridade, realizado em 30/08/2017: <a href="https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/"  target="_blank">https://www.cge.ce.gov.br/2017/08/30/seminario-controles-internos-gestao-de-riscos-e-programa-de-integridade/</a>
                 </p>
             </div>
             <br>
@@ -260,7 +261,7 @@ include('layout/header.php');
 
             <div>
                 <p class="SaibaMaisTitulo"> Saiba Mais</p>
-                <p class="SaibaMaisTexto">Para uma leitura complementar leia "<a href="https://administradores.com.br/artigos/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes">Gestão de Riscos no Setor Público – ampliando os horizontes</a>".</p>
+                <p class="SaibaMaisTexto">Para uma leitura complementar leia "<a href="https://administradores.com.br/artigos/gestao-dos-riscos-no-setor-publico-ampliando-os-horizontes"  target="_blank">Gestão de Riscos no Setor Público – ampliando os horizontes</a>".</p>
             </div>
 
             

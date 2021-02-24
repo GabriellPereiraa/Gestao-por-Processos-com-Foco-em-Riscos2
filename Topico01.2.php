@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 01.2 – Quais os riscos que nos interessam?
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto">
                 O interesse deste curso está voltado para os riscos relacionados à gestão das organizações, das instituições, cuja existência atual e futura depende de como são administradas e dos resultados que alcançam. Assim, o foco está relacionado aos riscos associados às metas, aos objetivos e aos resultados estabelecidos pelas organizações e de como eles se relacionam com os recursos alocados, com a comunicação empreendida, com a visibilidade alcançada e com o desempenho ao longo do tempo, por exemplo. 
@@ -57,7 +57,7 @@ include('layout/header.php');
             <section id="ObjetivosEstratégicos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1" style="background-color: #4885AE;color:white">
                                     <h3>Objetivos Estratégicos</h3>
@@ -79,7 +79,7 @@ include('layout/header.php');
             <section id="Iniciativas">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" style="background-color: #4885AE;color:white">
                                     <h3>Iniciativas</h3>
@@ -101,7 +101,7 @@ include('layout/header.php');
             <section id="Aquisições">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" style="background-color: #4885AE;color:white">
                                     <h3>Aquisições</h3>
@@ -123,7 +123,7 @@ include('layout/header.php');
             <section id="Planejamento">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" style="background-color: #4885AE;color:white">
                                     <h3>Planejamento e Aquisição de recursos</h3>
@@ -145,7 +145,7 @@ include('layout/header.php');
             <section id="Governança">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" style="background-color: #4885AE;color:white">
                                     <h3>Governança</h3>
@@ -167,7 +167,7 @@ include('layout/header.php');
             <section id="Comunicacao">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6" style="background-color: #4885AE;color:white">
                                     <h3>Comunicação e relação com o público</h3>
@@ -193,7 +193,7 @@ include('layout/header.php');
             <section id="GestaoContabil">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7" style="background-color: #4885AE;color:white">
                                     <h3>Gestão Contábil e reporte</h3>
@@ -215,7 +215,7 @@ include('layout/header.php');
             <section id="GestaoLiquidez">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8" style="background-color: #4885AE;color:white">
                                     <h3>Gestão de liquidez e crédito</h3>
@@ -237,7 +237,7 @@ include('layout/header.php');
             <section id="ApresentacaoPublico">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9" style="background-color: #4885AE;color:white">
                                     <h3>Apresentação ao público</h3>
@@ -259,7 +259,7 @@ include('layout/header.php');
             <section id="FontesRecursos">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10" style="background-color: #4885AE;color:white">
                                     <h3>Fontes de recursos</h3>
@@ -281,7 +281,7 @@ include('layout/header.php');
             <section id="VariacaoCambial">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11" style="background-color: #4885AE;color:white">
                                     <h3>Variação cambial</h3>
@@ -307,7 +307,7 @@ include('layout/header.php');
             <section id="GestaoPatrimonio">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12" style="background-color: #4885AE;color:white">
                                     <h3>Gestão de patrimônio</h3>
@@ -329,7 +329,7 @@ include('layout/header.php');
             <section id="GestaoContingencias">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13" style="background-color: #4885AE;color:white">
                                     <h3>Gestão de contingências</h3>
@@ -351,7 +351,7 @@ include('layout/header.php');
             <section id="GestaoPessoas">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14" style="background-color: #4885AE;color:white">
                                     <h3>Gestão de pessoas e de recursos humanos</h3>
@@ -373,7 +373,7 @@ include('layout/header.php');
             <section id="TecnologiaInformacao">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15" style="background-color: #4885AE;color:white">
                                     <h3>Tecnologia da informação e informação</h3>
@@ -395,7 +395,7 @@ include('layout/header.php');
             <section id="GestaoEstoque">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16" style="background-color: #4885AE;color:white">
                                     <h3>Compras e gestão de estoques</h3>
@@ -417,7 +417,7 @@ include('layout/header.php');
             <section id="Serviços">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapse17" style="background-color: #4885AE;color:white">
                                     <h3>Serviços</h3>
@@ -443,7 +443,7 @@ include('layout/header.php');
             <section id="AmbienteRegulatorio">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
                                     <h3>Ambiente regulatório</h3>
@@ -465,7 +465,7 @@ include('layout/header.php');
             <section id="JurídicoLegal">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse19" aria-expanded="false" aria-controls="collapse19">
                                     <h3>Jurídico e legal</h3>
@@ -487,7 +487,7 @@ include('layout/header.php');
             <section id="CodigoConduta">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
-                        <div class="card-header" id="headingOne">
+                        <div class="card-item" id="headingOne">
                             <h2 class="mb-0">
                                 <button class="btn btn-success btn-block text-left collapsed " type="button" data-toggle="collapse" data-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
                                     <h3>Código de conduta</h3>
@@ -517,19 +517,19 @@ include('layout/header.php');
                 </p>
 
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i>  fornecer serviços de saúde para a população do estado, priorizando os indivíduos de menor renda.
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  fornecer serviços de saúde para a população do estado, priorizando os indivíduos de menor renda.
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i>  contribuir para a redução da morte infantil por falta de atendimento aos recém-nascidos. 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  contribuir para a redução da morte infantil por falta de atendimento aos recém-nascidos. 
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i>  contribuir para a redução de nascimento não desejado, principalmente entre as adolescentes, na faixa dos 12 aos 18 anos. 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  contribuir para a redução de nascimento não desejado, principalmente entre as adolescentes, na faixa dos 12 aos 18 anos. 
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i>  fornecer medicamentos essenciais à vida gratuitamente ou a preços condizentes com a renda dos beneficiários envolvidos em situação de doença grave ou terminal. 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  fornecer medicamentos essenciais à vida gratuitamente ou a preços condizentes com a renda dos beneficiários envolvidos em situação de doença grave ou terminal. 
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-check" style="color:#FC6B30;"></i>  zelar pela qualidade do serviço médico oferecido pelos hospitais e pelos postos de saúde do Estado. 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  zelar pela qualidade do serviço médico oferecido pelos hospitais e pelos postos de saúde do Estado. 
                 </p>
 
                 <p class="CuriosidadeTexto">
@@ -561,13 +561,13 @@ include('layout/header.php');
                 </p>
 
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-bullseye" style="color:#FC6B30;"></i>  Como você categorizaria os riscos que podem afetar esse departamento? 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  Como você categorizaria os riscos que podem afetar esse departamento? 
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-bullseye" style="color:#FC6B30;"></i>  Quais os eventos relevantes que podem representar riscos para o cumprimento das competências do departamento? 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  Quais os eventos relevantes que podem representar riscos para o cumprimento das competências do departamento? 
                 </p>
                 <p class="CuriosidadeTexto">
-                <i class="fas fa-bullseye" style="color:#FC6B30;"></i>  Relacione no mínimo 10 riscos que decorrem dos possíveis eventos. A partir dos eventos relacionados que revisão você faria na categorização? 
+                <i class="fas fa-arrow-right" style="color:#FC6B30;"></i>  Relacione no mínimo 10 riscos que decorrem dos possíveis eventos. A partir dos eventos relacionados que revisão você faria na categorização? 
                 </p>
             </div>
 

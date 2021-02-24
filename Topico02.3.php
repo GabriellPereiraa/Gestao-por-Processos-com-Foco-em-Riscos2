@@ -18,11 +18,11 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 02.3 - Como gerenciar riscos?
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto">
                 Após o que até aqui foi apresentado em termos de riscos, inclusive o que são e o que não são riscos, aqueles que interessam, os motivos para que sejam gerenciados e o que esse gerenciamento significa, serão agora apresentadas algumas formas de se efetuarem os procedimentos de gestão de riscos.  
@@ -90,7 +90,7 @@ include('layout/header.php');
             Já o modelo COSO II aborda o paradigma de gestão de riscos por meio de um modelo integrado composto pelas dimensões: ambiente interno; definição de objetivos; identificação de eventos; avaliação de riscos; resposta ao risco; atividades de controle; informação e comunicação; e monitoramento (COSO, 2007). As especificações, alcances e significados desse modelo integrado serão apresentados na próxima seção desta aula. 
             </p>
             <p class="Texto">
-            Por outro lado, Hill (2006) lembra que foram desenvolvidas várias outras estruturas de gestão de riscos com a finalidade de auxiliar os gestores a tratar os riscos de forma sistemática, citando, a título de exemplo: a gestão de riscos da Associação Canadense de Padrões (CAN/CSAQ850-97); o modelo de Critérios de Controle desenvolvido pelo <span style="color:#FC6B30;"> Instituto Canadense de Auditores Juramentados (</span>Canadian Institute of Chartered Accountants<span style="color: #FC6B30;">)</span>; a Estrutura de Gestão de Riscos em Políticas Públicas, do Grupo de Trabalho de Secretários Executivos Adjuntos para a Gestão de Riscos; e a estrutura para a Gestão Integrada de Riscos, do Conselho do Tesouro canadense. 
+            Por outro lado, Hill (2006) lembra que foram desenvolvidas várias outras estruturas de gestão de riscos com a finalidade de auxiliar os gestores a tratar os riscos de forma sistemática, citando, a título de exemplo: a gestão de riscos da Associação Canadense de Padrões (CAN/CSAQ850-97); o modelo de Critérios de Controle desenvolvido pelo <span style="color:#FC6B30;"> Instituto Canadense de Auditores Juramentados </span>(Canadian Institute of Chartered Accountants); a Estrutura de Gestão de Riscos em Políticas Públicas, do Grupo de Trabalho de Secretários Executivos Adjuntos para a Gestão de Riscos; e a estrutura para a Gestão Integrada de Riscos, do Conselho do Tesouro canadense. 
             </p>
             <p class="Texto">
             Hill (2006) destaca ainda que essas estruturas de gestão de risos desenvolvidas estão suportadas por uma base comum referente às principais etapas de um ciclo de processo decisório em gestão de riscos: identificação; avaliação; resposta; comunicação; e monitoramento e aprendizagem.
@@ -152,7 +152,7 @@ include('layout/header.php');
 
             <script>
                 $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                    event.preventDefault();
+                    event.preventDefault();Cinza
                     $(this).ekkoLightbox();
                 });                    
             </script>

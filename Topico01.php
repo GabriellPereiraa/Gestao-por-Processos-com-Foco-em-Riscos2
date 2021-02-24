@@ -18,24 +18,24 @@ include('layout/header.php');
         <?php include('layout/nav.php') ?>
         <!-- CONTEUDO INICIO -->
         <div class="main-content container-fluid">
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold CinzaCinza">
                 <i class="fas fa-folder"></i> Tópico 01 – Riscos: O que são e os que nos interessam
             </h2>
 
-            <hr class="hr4">
+            <hr class="hr4CinzaCinza">
 
             <p class="Texto"><strong>Objetivo:</strong>  Apresentar informações que permitam a compreensão das características dos riscos em geral e daqueles que interessam às organizações.
             </p>
             
             <hr class="hrLaranja">
 
-            <h2 class="font-bold Azul">
+            <h2 class="font-bold Cinza">
                 <i class="fas fa-folder"></i> 01.1 - O que são e o que não são riscos?
             </h2>
-            <hr class="hr4">
+            <hr class="hr4Cinza">
 
             <p class="Texto">
-            A definição para risco pode ser considerada circunstancial e dependente de quem ou qual organização a apresenta ou a considera em sua vida, pessoal ou organizacional. Nada obstante, indubitavelmente, o risco traz em sua essência uma imagem de algo sobre o qual não se pode prever ou evitar, algo incerto, um evento que pode ou não ocorrer, normalmente acarretando certa perda, em caso de se tornar realidade. 
+                A definição para risco pode ser considerada circunstancial e dependente de quem ou qual organização a apresenta ou a considera em sua vida, pessoal ou organizacional. Nada obstante, indubitavelmente, o risco traz em sua essência uma imagem de algo sobre o qual não se pode prever ou evitar, algo incerto, um evento que pode ou não ocorrer, normalmente acarretando certa perda, em caso de se tornar realidade. 
             </p>
 
             <div class="col-md-12">
@@ -83,12 +83,12 @@ include('layout/header.php');
             <br>
 
             <p class="Texto">
-                De outra parte, o <span style="color:#FC6B30">Committee of Sponsoring Organizations of the Treadway Commission(</span>Comitê das Organizações Patrocinadoras da Comissão Treadway<span style="color:#FC6B30">)</span>definiu que
+                De outra parte, o <span style="color:#FC6B30">Committee of Sponsoring Organizations of the Treadway Commission</span>(Comitê das Organizações Patrocinadoras da Comissão Treadway) definiu que
             </p>
             
             <div class="col-md-12">
                 <blockquote class="blockquoteEad">
-                    <p class="mb-0">“incertezas representam riscos e oportunidades, com potencial para destruir ou agregar valor às organizações, as quais só existem para gerar valor para os <span style="color:#FC6B30">stakeholders(</span>partes interessadas<span style="color:#FC6B30">)</span></p>
+                    <p class="mb-0">“incertezas representam riscos e oportunidades, com potencial para destruir ou agregar valor às organizações, as quais só existem para gerar valor para os <span style="color:#FC6B30">stakeholders</span>(partes interessadas)</p>
                     <footer class="blockquote-footer">( COSO, 2007, p. 3) –</footer>
                 </blockquote>
             </div>
@@ -101,10 +101,10 @@ include('layout/header.php');
             <div>
                     <p class="SaibaMaisTitulo"> Saiba Mais</p>
                     <p class="SaibaMaisTexto">
-                        O <span style="color: #FC6B30;">COSO®(</span>(Committee of Sponsoring Organizations of the Treadway Commission <span style="color: #FC6B30;">)</span> é uma organização privada criada nos EUA, em 1985, para prevenir e evitar fraudes nos procedimentos e processos internos da empresa. 
+                        O <span style="color: #FC6B30;">COSO®</span>(Committee of Sponsoring Organizations of the Treadway Commission) é uma organização privada criada nos EUA, em 1985, para prevenir e evitar fraudes nos procedimentos e processos internos da empresa. 
                     </p>
                     <p class="SaibaMaisTexto">
-                        Inicialmente criada como <span style="color: #FC6B30;">National Commission on Fraudulent Financial Reporting(</span>National Commission on Fraudulent Financial Reporting<span style="color: #FC6B30;">)</span>, essa comissão era formada por representantes das principais associações de classes de profissionais ligados à área financeira.
+                        Inicialmente criada como <span style="color: #FC6B30;">National Commission on Fraudulent Financial Reporting</span>(National Commission on Fraudulent Financial Reporting), essa comissão era formada por representantes das principais associações de classes de profissionais ligados à área financeira.
                     </p>
                     <p class="SaibaMaisTexto">
                         O primeiro objeto de estudo da comissão foram os controles internos das empresas. Essa comissão, posteriormente, tornou-se um comitê e passou a se chamar COSO - Committee of Sponsoring Organizations of the Treadway Commission.
@@ -113,7 +113,7 @@ include('layout/header.php');
                         O COSO é uma organização sem fins lucrativos, dedicada à melhoria dos relatórios financeiros, sobretudo pela aplicação da ética e da efetividade na aplicação e no cumprimento dos controles internos e é patrocinado pelas cinco das principais associações de classe de profissionais ligados à área financeira nos EUA. Em decorrência da globalização e padronização internacional das técnicas de auditoria, as recomendações da COSO, relativas aos controles internos, bem como seu cumprimento e sua observância são amplamente praticados e tidos como modelo e referência no Brasil e na maioria dos países do mundo.
                     </p>
                     <p class="SaibaMaisTexto">
-                    Fonte: <a href="https://pt.wikipedia.org/wiki/COSO">https://pt.wikipedia.org/wiki/COSO</a>, Acesso em 15 ago. 2017.
+                    Fonte: <a href="https://pt.wikipedia.org/wiki/COSO" target="_blank">https://pt.wikipedia.org/wiki/COSO</a>, Acesso em 15 ago. 2017.
                     </p>
                 </div>
                 <br>
@@ -137,7 +137,7 @@ include('layout/header.php');
                     Finalmente, <strong>algo é certo e indiscutível: problemas, fatos ou eventos passados, que já ocorreram, não são riscos</strong>, justamente porque, em virtude de já terem ocorrido, não são mais detentores de característica ou atributo desconhecido, em si mesmo e em termos de seus efeitos, sejam eles positivos ou negativos. 
                 </p>
 
-                <div>
+                <div class="Dica">
                     <p class="CuriosidadeTitulo"> Dica</p>
                     <p class="CuriosidadeTexto"><strong>Sugestão de leitura complementar: Capítulo 1 - “O que é risco?”, do livro de Damadoran (2009), p. 21-24.</strong>
                     </p>
